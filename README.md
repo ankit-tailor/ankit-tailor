@@ -14,7 +14,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on NativeBase @GeekyAnts.
+  - 🔭 I’m currently working on <a href="https://nativebase.io"> NativeBase </a> @<a href="https://geekyants.com">GeekyAnts</a>.
 
 - 🌱 I’m currently learning Typescript, react,  react-native and more. 
 
