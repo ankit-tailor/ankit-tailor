@@ -16,11 +16,11 @@
 
 <br>
 
-![Ankit's Github Stats](https://github-readme-stats.vercel.app/api?username=ankit-tailor&show_icons=true&include_all_commits=true&theme=radical)
+![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankit-tailor&show_icons=true&include_all_commits=true&theme=radical)
 
 ![Ankit's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-tailor&layout=compact&theme=radical)
 
-![Ankit's github activity graph]https://github-readme-activity-graph.cyclic.app/graph?username=ankit-tailor&theme=github-compact
+![Ankit's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ankit-tailor&theme=github-compact)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
