@@ -10,25 +10,28 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JavaScript | TypeScript | C++ 
-- 🌐 &nbsp; React | React Native | HTML | CSS | TailwindCSS | Node.JS
-- 🛢 &nbsp; Mongo
+- 💻 &nbsp; JavaScript | TypeScript | C++
+- 🌐 &nbsp; React | React Native
 - 🔧 &nbsp; Visual Studio code | Git
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit-tailor&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ankit-tailor's Github Stats">
+![Ankit's Github Stats](https://github-readme-stats.vercel.app/api?username=ankit-tailor&show_icons=true&include_all_commits=true&theme=radical)
 
-</br>
+![Ankit's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-tailor&layout=compact&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-tailor&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/rayan1810/github-readme-stats)
-
+![Ankit's github activity graph]https://github-readme-activity-graph.cyclic.app/graph?username=ankit-tailor&theme=github-compact
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
-&nbsp; <a href="https://twitter.com/ankittailor__" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/_akkiiii._/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/ankit-tailor/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:tailorankit3345@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
+<p>
+<a href="https://twitter.com/ankittailor__">
+   <img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/ankit-tailor/">
+   <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<p/>
+
+<br/>
