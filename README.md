@@ -14,13 +14,12 @@
 - 🌐 &nbsp; React | React Native
 - 🔧 &nbsp; Visual Studio code | Git
 
+
 <br>
 
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankit-tailor&show_icons=true&include_all_commits=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankit-tailor&theme=react&hide_border=true)
 
-![Ankit's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-tailor&layout=compact&theme=radical)
-
-![Ankit's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ankit-tailor&theme=github-compact)
+![Ankit's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-tailor&layout=compact&theme=react&hide_border=true)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
