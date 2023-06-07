@@ -17,7 +17,7 @@
 
 <br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankit-tailor&theme=react&hide_border=true)
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankit-tailor&count_private=true&show_icons=true&theme=radical)
 
 ![Ankit's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-tailor&layout=compact&theme=react&hide_border=true)
 
