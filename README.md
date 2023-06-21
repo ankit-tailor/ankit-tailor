@@ -17,9 +17,9 @@
 
 <br>
 
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankit-tailor&count_private=true&show_icons=true&theme=radical)
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankit-tailor&include_all_commits=true&count_private=true&show_icons=true&theme=dark)
 
-![Ankit's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-tailor&layout=compact&theme=react&hide_border=true)
+![Ankit's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-tailor&layout=compact&theme=dark&hide_border=true)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
