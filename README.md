@@ -3,17 +3,13 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently working on [NativeBase](https://github.com/GeekyAnts/NativeBase) @[Geekyants](https://geekyants.com).
-- 🌱 &nbsp; I’m currently learning Typescript, React, React Native and more.
-- 👯 &nbsp; I’m looking to collaborate on projects, tech articles.
+- 🔭 &nbsp; Building [gluestack](https://github.com/gluestack) @[Geekyants](https://geekyants.com).
 - 💬 &nbsp; Talk to me about Open Source, web & mobile apps and more.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | TypeScript | C++
 - 🌐 &nbsp; React | React Native
-- 🔧 &nbsp; Visual Studio code | Git
-
 
 <br>
 
