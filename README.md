@@ -9,7 +9,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | TypeScript | C++
-- 🌐 &nbsp; React | React Native
+- 🌐 &nbsp; React | React Native | Next.js
 
 <br>
 
