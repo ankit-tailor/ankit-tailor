@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; Building [gluestack](https://github.com/gluestack) @[Geekyants](https://geekyants.com).
-- 💬 &nbsp; Talk to me about Open Source, web & mobile apps and more.
+- 💬 &nbsp; Talk to me about Open Source, web & mobile apps and more related Frontend ecosystem.
 
 <h3>🛠 Tech Stack</h3>
 
@@ -14,19 +14,3 @@
 <br>
 
 ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankit-tailor&include_all_commits=true&count_private=true&show_icons=true&theme=dark)
-
-![Ankit's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-tailor&layout=compact&theme=dark&hide_border=true)
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p>
-<a href="https://twitter.com/ankittailor__">
-   <img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/ankit-tailor/">
-   <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<p/>
-
-<br/>
