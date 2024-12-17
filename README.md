@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Building [gluestack](https://github.com/gluestack) @[Geekyants](https://geekyants.com).
+- 🔭 &nbsp; Frontend Developer with expertise in developing Mobile and Web apps & Design Systems using React, Next.js, React Native, and Typescript.
 - 💬 &nbsp; Talk to me about Open Source, web & mobile apps and more related Frontend ecosystem.
 
 <h3>🛠 Tech Stack</h3>
