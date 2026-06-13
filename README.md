@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; Frontend Developer with expertise in developing Mobile and Web apps & Design Systems using React, Next.js, React Native, and Typescript.
-- 👨‍💻 &nbsp; Building Lomen AI, Blockscratch, Scratch.
+- 👨‍💻 &nbsp; Building Cesto, Blockscratch, Scratch.
 - 💬 &nbsp; Talk to me about Open Source, web & mobile apps and more related Frontend ecosystem.
 
 <h3>🛠 Tech Stack</h3>
