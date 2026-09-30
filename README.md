@@ -11,5 +11,3 @@
 
 - 💻 &nbsp; JavaScript | TypeScript | C++
 - 🌐 &nbsp; React | React Native | Next.js
-
-<br>
